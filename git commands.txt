@@ -6,6 +6,12 @@ wq:                      		:  to exit vim
 git add .                		:  to add to staging area
 git restore --staged [file name] :  to remove from staging area
 git log 					:  to check the history of commits or changes
+git commit -m " "			:  to commit message
 git reset [commit ID] 		:  to go-back to this commit (the commits made above this commid ID will be deleted
 git stash 					{yet to learn}
+git push origin master		:  pushing code from local device to  github
+git branch [branch name]		:  creating new branch
+git chreckout [branch name]		:  branch will be changed from master to new branch
+
+
  
