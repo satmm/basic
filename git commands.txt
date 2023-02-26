@@ -8,10 +8,14 @@ git restore --staged [file name] :  to remove from staging area
 git log 					:  to check the history of commits or changes
 git commit -m " "			:  to commit message
 git reset [commit ID] 		:  to go-back to this commit (the commits made above this commid ID will be deleted
+git remote add origin [link to github repo]		: to link the github repo with git
+git remote add upstream [link to forked repo]	: to link forked github repoo with git
 git stash 					{yet to learn}
 git push origin master		:  pushing code from local device to  github
 git branch [branch name]		:  creating new branch
 git chreckout [branch name]		:  branch will be changed from master to new branch
-
+git merge [branch name]		:  the new branch will be merged withh master branch
+git remote add upstream [link]	:  from where you have forked
+  
 
  
