@@ -1,0 +1,11 @@
+git init                   		:  to initialize
+mkdir [file name ]      		:  to create folder
+touch [file name]      		:  to create file
+vim [file name]                  :  to edit file
+wq:                      		:  to exit vim
+git add .                		:  to add to staging area
+git restore --staged [file name] :  to remove from staging area
+git log 					:  to check the history of commits or changes
+git reset [commit ID] 		:  to go-back to this commit (the commits made above this commid ID will be deleted
+git stash 					{yet to learn}
+ 
