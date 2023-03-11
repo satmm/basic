@@ -18,6 +18,7 @@ git stash 						{yet to learn}
 git push origin master				:  pushing code from local device to  github
 git branch [branch name]			:  creating new branch
 git chreckout [branch name]			:  branch will be changed from master to new branch
+git branch -d [branch name]			:  to delete branch
 git merge [branch name]				:  the new branch will be merged withh master branch
 git remote add upstream [link]		:  from where you have forked
 git push origin [branch name] -f 		:  if you delete some file from local and it is available on github so it wont give permission to push so 						   we use -force
