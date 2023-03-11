@@ -16,6 +16,7 @@ git remote add upstream [link to forked repo]		: to link forked github repoo wit
 git stash 						{yet to learn}
 
 git push origin master				:  pushing code from local device to  github
+git branch						:  to check the branches in our device
 git branch [branch name]			:  creating new branch
 git chreckout [branch name]			:  branch will be changed from master to new branch
 git merge [branch name]				:  the new branch will be merged withh master branch
